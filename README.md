@@ -12,6 +12,6 @@ I'm a Full-Stack Developer with a passion for building scalable and efficient we
 Website  
 Twitter
 LinkedIn
-Blog
+https://medium.com/@bernardbebeni
 Gmail
 
