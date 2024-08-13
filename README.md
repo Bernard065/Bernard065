@@ -9,9 +9,9 @@ I'm a Full-Stack Developer with a passion for building scalable and efficient we
 🏆 My motto: "Code, Create, Conquer."
 
 🔗 Connect with Me
-Website  
-Twitter
-LinkedIn
-https://medium.com/@bernardbebeni
-Gmail
+1. https://www.bernardbebeni.com/
+2. https://x.com/bernard_bebeni
+3. https://www.linkedin.com/in/benard-bebeni/
+4. https://medium.com/@bernardbebeni
+5. benardbebeni065@gmail.com
 
