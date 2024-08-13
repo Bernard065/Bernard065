@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Bernard065
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Bernard065
 
-<!---
-Bernard065/Bernard065 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 About Me
+I'm a Full-Stack Developer with a passion for building scalable and efficient web applications. I specialize in Next.js and React, with a strong focus on performance optimization and user experience.
+
+🌍 I’m currently exploring AI integration in web apps.
+💬 Ask me about JavaScript, Tailwind CSS, or MERN Stack.
+🎓 I’m always open to learning and exploring new technologies.
+🏆 My motto: "Code, Create, Conquer."
+
+🔗 Connect with Me
+Website  
+Twitter
+LinkedIn
+Blog
+Gmail
+
