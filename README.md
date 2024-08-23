@@ -2,7 +2,7 @@
 
 🚀 About Me
 
-I'm a Full-Stack Developer with a passion for building scalable and efficient web applications. I specialize in Next.js and React, with a strong focus on performance optimization and user experience.
+I'm a Full-Stack Developer with a passion for building scalable and efficient web applications. I specialize in Next.js, React and Rails with a strong focus on performance optimization and user experience.
 
 🌍 I’m currently exploring AI integration in web apps.
 💬 Ask me about JavaScript, Tailwind CSS, or MERN Stack.
