@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Bernard Bebeni 👋
+# Hi, I'm Benard Omboga 👋
 
 **Software Engineer · Full-Stack Developer · Technical Writer**
 
