@@ -67,8 +67,6 @@ I'm a full-stack software engineer passionate about building systems that are **
 |---|---|---|
 | [Dev Overflow](https://github.com/Bernard065/dev-overflow) | A community-driven Q&A platform for developers, inspired by Stack Overflow | Next.js · TypeScript · MongoDB · Clerk · Tailwind · Shadcn UI |
 | [MindHire — Talent Acquisition Platform](https://github.com/Bernard065/talent-acquisition-platform) | Multi-tenant recruiting platform covering the full hiring lifecycle — requisitions, job postings, candidate review, interviews, offers, onboarding & offboarding | Next.js 16 · React 19 · FastAPI · PostgreSQL · Redis · Docker |
-| [Shadcn-React-Hook-Form](https://github.com/Bernard065/Shadcn-React-Hook-Form) | Modern form management with shadcn/ui & React Hook Form | Next.js · Tailwind · React Hook Form |
-| [Portfolio](https://bernardbeben.vercel.app/) | Personal portfolio website | Next.js · Tailwind CSS |
 
 ---
 
