@@ -61,23 +61,6 @@ I'm a full-stack software engineer passionate about building systems that are **
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Bernard065&show_icons=true&theme=radical&hide_border=true" alt="Bernard's GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernard065&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bernard065&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
